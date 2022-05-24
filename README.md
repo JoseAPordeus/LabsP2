@@ -1,1 +1,1 @@
-# LabsP2
+# Repositório de provas programação 2
